@@ -1,0 +1,15 @@
+C:\Users\lisov\Documents\Programming\bin\Debug\net6.0\Programming.exe
+C:\Users\lisov\Documents\Programming\bin\Debug\net6.0\Programming.deps.json
+C:\Users\lisov\Documents\Programming\bin\Debug\net6.0\Programming.runtimeconfig.json
+C:\Users\lisov\Documents\Programming\bin\Debug\net6.0\Programming.dll
+C:\Users\lisov\Documents\Programming\bin\Debug\net6.0\Programming.pdb
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.csproj.AssemblyReference.cache
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.AssemblyInfoInputs.cache
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.AssemblyInfo.cs
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.dll
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\refint\Programming.dll
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.pdb
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\Programming.genruntimeconfig.cache
+C:\Users\lisov\Documents\Programming\obj\Debug\net6.0\ref\Programming.dll
